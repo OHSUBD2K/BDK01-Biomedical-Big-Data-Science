@@ -55,15 +55,19 @@ Unit 1 Audio: BDK01-1.mp3
 
 ### Unit 2: Biomedical, Clinical and Translational Research 1/2
 
-Unit 2 Slides: BDK01\_2.pptx
+Unit 2 Slides: BDK01-2.pptx
 
-Unit 2 Audio: BDK01\_2.mp3
+Unit 2 Audio: BDK01-2.mp3
+
+Unit 2 Resourses: BDK01-2\_resources.pdf
 
 ### Unit 3: Biomedical, Clinical and Translational Research 2/2
 
 Unit 3 Slides: BDK01\_3.pptx
 
 Unit 3 Audio: BDK01\_3.mp3
+
+Unit 3 Resourses: BDK01-3\_resources.pdf
 
 ### Module Supplemental Materials
 
