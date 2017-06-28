@@ -3,7 +3,7 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 03/30/2016
+
 
 ## Module Number: BDK01
 
@@ -32,13 +32,13 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK01-1.pptx
 
-Unit 1 Audio: BDK01-1.mp3
+Unit 1 Audio: BDK01-1.mp3 - Full lecture, Audio File - Individual Slides
 
 ### Unit 2: Biomedical, Clinical and Translational Research 1/2
 
 Unit 2 Slides: BDK01-2.pptx
 
-Unit 2 Audio: BDK01-2.mp3
+Unit 2 Audio: BDK01-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resourses: BDK01-2\_resources.pdf
 
@@ -46,7 +46,7 @@ Unit 2 Resourses: BDK01-2\_resources.pdf
 
 Unit 3 Slides: BDK01\_3.pptx
 
-Unit 3 Audio: BDK01\_3.mp3
+Unit 3 Audio: BDK01-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resourses: BDK01-3\_resources.pdf
 
