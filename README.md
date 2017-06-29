@@ -34,7 +34,7 @@ Unit 1 Slides: BDK01-1.pptx
 
 Unit 1 Audio: BDK01-1.mp3 - Full lecture, Audio File - Individual Slides
 
-Example: [online presentation](http://localhost/asset_groups/BD2KSite/demo/BDK01-1/presentation_html5.html)
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK01-1/presentation_html5.html)
 
 ### Unit 2: Biomedical, Clinical and Translational Research 1/2
 
@@ -44,7 +44,7 @@ Unit 2 Audio: BDK01-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resourses: BDK01-2\_resources.pdf
 
-Example: [online presentation](http://localhost/asset_groups/BD2KSite/demo/BDK01-2/presentation_html5.html)
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK01-2/presentation_html5.html)
 
 ### Unit 3: Biomedical, Clinical and Translational Research 2/2
 
@@ -54,7 +54,7 @@ Unit 3 Audio: BDK01-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resourses: BDK01-3\_resources.pdf
 
-Example: [online presentation](http://localhost/asset_groups/BD2KSite/demo/BDK01-3/presentation_html5.html)
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK01-3/presentation_html5.html)
 
 ### Module Supplemental Materials
 
@@ -78,6 +78,6 @@ As a result, the materials provided here have limited imagery as we intend for t
 
 **Where do I find images?** There are several sources that might be available to you.  Depending on how you plan on using the BD2K modules, you may have more flexibility to locate images.  Once you have identify the license that you wish to use, you can search with those restrictions in mind.
 
-- Google Images:  Head to Google Advanced Image Search (http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
+- Google Images:  Head to [Google Advanced Image Search](http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
 - Flickr Creative Commons:  Many users of Flickr have elected to allow their photographs to be reused.  To browse or search for CC licensed images, head to https://www.flickr.com/creativecommons/  
 - Institutional licenses: depending on your home institution, your library may subscribe to an image database that may be useful.  Please consult with your librarian to see if such assets are available to you.
