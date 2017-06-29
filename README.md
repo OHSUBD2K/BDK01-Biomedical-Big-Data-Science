@@ -34,6 +34,8 @@ Unit 1 Slides: BDK01-1.pptx
 
 Unit 1 Audio: BDK01-1.mp3 - Full lecture, Audio File - Individual Slides
 
+Example: [online presentation](http://localhost/asset_groups/BD2KSite/demo/BDK01-1/presentation_html5.html)
+
 ### Unit 2: Biomedical, Clinical and Translational Research 1/2
 
 Unit 2 Slides: BDK01-2.pptx
@@ -42,6 +44,8 @@ Unit 2 Audio: BDK01-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resourses: BDK01-2\_resources.pdf
 
+Example: [online presentation](http://localhost/asset_groups/BD2KSite/demo/BDK01-2/presentation_html5.html)
+
 ### Unit 3: Biomedical, Clinical and Translational Research 2/2
 
 Unit 3 Slides: BDK01\_3.pptx
@@ -49,6 +53,8 @@ Unit 3 Slides: BDK01\_3.pptx
 Unit 3 Audio: BDK01-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resourses: BDK01-3\_resources.pdf
+
+Example: [online presentation](http://localhost/asset_groups/BD2KSite/demo/BDK01-3/presentation_html5.html)
 
 ### Module Supplemental Materials
 
